@@ -221,7 +221,7 @@ const Home = () => {
 
             <View style={{ flex: 1, backgroundColor: "yellow" }}>
               <Text style={{ margin: 20 }}>
-                Suniya hassan 
+                Suniya hassa
               </Text>
 
             </View>
