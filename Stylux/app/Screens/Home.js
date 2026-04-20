@@ -210,7 +210,7 @@ const Home = () => {
           <Text style={{ margin: 20 }}>
             Party Makekup
           </Text>
-          <View style={{
+          <View style={{ 
             width: '100%',
             height: "100",
             justifyContent: 'space-around',
@@ -221,7 +221,7 @@ const Home = () => {
 
             <View style={{ flex: 1, backgroundColor: "yellow" }}>
               <Text style={{ margin: 20 }}>
-                Suniya hassa
+                Suniya hassan
               </Text>
 
             </View>
