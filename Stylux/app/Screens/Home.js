@@ -240,7 +240,7 @@ const Home = () => {
 
 
 
-      </View>
+      </View> 
 
 
     </ScrollView>
